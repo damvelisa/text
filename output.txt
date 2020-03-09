@@ -1,0 +1,25 @@
+Script started on Tue 10 Mar 2020 01:54:29 AM +07
+]0;Cloud Shellroot@cloudshell:[1;34m~/su[00m$ pt[Kython3 [K[K[K[K[K[K[K[Kls
+app.json                  requirements.txt
+[0m[01;34mdbplugins[0m                 runtime.txt
+GenerateStringSession.py  sample_config.py
+LICENSE                   [01;34msql_helpers[0m
+output.txt                stdborg.py
+Procfile                  [01;34mstdplugins[0m
+README.md                 telesetup.py
+requirements-stdborg.txt  [01;34muniborg[0m
+]0;Cloud Shellroot@cloudshell:[1;34m~/su[00m$ python [K3 GenerateStringSession .py
+Please go-to my.telegram.org
+Login using your Telegram account
+Click on API Development Tools
+Create a new application, by entering the required details
+Enter APP ID here: 1057256
+Enter API HASH here: dafa25143698bffb86a6a599b6c0a19c
+Please enter your phone (or bot token): +628563675840
+Please enter the code you received: 16667
+Signed in successfully as Dika ᪣ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧ ᪣ࣧࣧࣧ ᪣ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧ ᪣ࣧࣧࣧࣧࣧࣧࣧࣧ
+1BVtsOL4Bu6H3Xm8FLpJwTDZ3Fdcx4ZjT1sZKlzV3qro_luGX1mCPlB4N9b7j5DSytoFwXQBUMAmSrrrxGORH_VNE9mEM8iEXfapYzoiY4CT074AADrtd8JPaj3YCylO4Zu56g-X1_yb57lONG0epie0yfNYyuJ_pSP4ds0VQVIrz-1yfwBPTucG66lRe05bQiaCcZqum6JCw4NwcjGll7UrfjVtNQKP4OxgMzo1vfavm3XmRBo9buw-bsFLqdYUkHZCxLDXz6pZP-AAckM9RewJGy9rELhXgCj9swO_CNYOovDb5Mz_Ct5AwQamZpt3lUsoaY2yMwap9aQpz4UiAiuaJwl0nGjI=
+]0;Cloud Shellroot@cloudshell:[1;34m~/su[00m$ exit
+exit
+
+Script done on Tue 10 Mar 2020 01:56:58 AM +07
